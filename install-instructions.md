@@ -58,6 +58,8 @@ P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://www.re
 
 ### [MultiMC](https://multimc.org)
 
+If you come here from [PolyMC alternatives list](https://polymc.org/wiki/getting-started/install-of-alternatives/#fabulously-optimized) see our [PolyMC section](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#polymc)
+
 You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 1. Click `Add Instance`
